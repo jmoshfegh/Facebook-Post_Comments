@@ -1,5 +1,5 @@
 # Facebook-Post_Comments
-Predict the Number of Comments for a Facebook Post
+Predict the Number of Comments for a Facebook Post.
 The dataset provides the following features:
 
 1: Page Popularity/likes
